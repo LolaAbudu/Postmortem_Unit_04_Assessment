@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Postmortem Unit 04 Assessment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello </string>
+    <string name="itemview_textview_hint">testing</string>
+    <string name="fragment_button_text">Check Wikipedia</string>
+</resources>
